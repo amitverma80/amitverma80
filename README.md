@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitverma80
 - 👀 I’m interested in developing application in C#, Angular, GO, AWS, AZURE, SQL
-- 🌱 I’m currently learning cloud technologies AWS and AZURE
+- 🌱 Beginner in cloud technologies AWS, AZURE and GCP
 - 📫 How to reach me @amitverma80@gmail.com
 
 <!---
